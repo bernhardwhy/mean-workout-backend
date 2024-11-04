@@ -5,18 +5,14 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Low Plank to High Plank",
-                    "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                    "id": "67287a29240261923db473eb",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
@@ -25,54 +21,42 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                    "id": "67287af5240261923db473ed",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Bench Flys - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                    "id": "67287b5a240261923db473ee",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Inlince Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1744539118-43fff7bde9d127379855638eb9c2e59f69add7f5e947b2cb644d5c42ec85f8db-d_320x180?r=pad",
+                    "id": "67289bd6240261923db473f0",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Skull Crushers - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157688747-f2529bfd30beb4affcd17c8f3c908934e824e787b7ac7626f53687cc652aa6b8-d_320x180?r=pad",
+                    "id": "67289ba7240261923db473ef",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Triceps Kickbacks - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272535-480d76eb889dd0f5545a8dd5a74f0d53ed4b71b4266491c58b8c60e5c8c01f42-d_320x180?r=pad",
+                    "id": "67289bfc240261923db473f1",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Overhead Extension - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                    "id": "67289c28240261923db473f2",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -89,18 +73,14 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jump rope",
-                    "image": "https://i.vimeocdn.com/video/729201729-1fbbec562ecbd0dedaaebb9d80f8faa17ab35391a848ebf0fe2f065c3e821a75-d_320x180?r=pad",
+                    "id": "67289c64240261923db473f3",
                     "sets": 3,
                     "reps": null,
                     "duration": 45,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Jump Squats",
-                    "image": "https://i.vimeocdn.com/video/911526483-6029401637e4acefe8ec7b308ff69f66802cff53ef02d7f285ec53a832ab9806-d_320x180?r=pad",
+                    "id": "67289c83240261923db473f4",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
@@ -109,63 +89,49 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Squats - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
+                    "id": "67289cc9240261923db473f5",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Dead Lifts - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409399-72f63f5b21821c5d2ab6b9404fee8b9ca44c5f6fa1ca857f35d47594ba1c3d7b-d_320x180?r=pad",
+                    "id": "67289ce6240261923db473f6",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Squat Lunge - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/866678726-950d0a4b89046e146a47c9564b7e91084e38a454bfe86f52e42fd1b313dd2ae3-d_320x180?r=pad",
+                    "id": "67289d00240261923db473f7",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Side Squat - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/868658950-f0dc4f082710ca717f85bcbec3301868d29c93eb34c962cfd02396e2c7fc5fbe-d_320x180?r=pad",
+                    "id": "67289d21240261923db473f8",
                     "sets": 4,
                     "reps": 7,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Single Let Glute Bridge - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1080904925-28f824df1e36c605a8e5cc4d373985a990092e0580034859df221afd763d4042-d_320x180?r=pad",
+                    "id": "67289d39240261923db473f9",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Calf Raises - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
+                    "id": "67289d56240261923db473fa",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m7",
-                    "title": "Tip Toe Wall Sit Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/885229269-5a52d7861bec127c239d0641f0465c635055ea66462aad74bf5c33c22627f857-d_320x180?r=pad",
+                    "id": "67289d78240261923db473fb",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
@@ -181,27 +147,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Reverse Plank Leans",
-                    "image": "https://i.vimeocdn.com/video/907400860-4cd0c17a6b4619e202e17d2d6ee3445ec03ed8b98a56a1fd33ccb1076675501e-d_320x180?r=pad",
+                    "id": "67289d9d240261923db473fc",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Dumbbell Renegade Rows",
-                    "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                    "id": "67289dbd240261923db473fd",
                     "sets": 3,
                     "reps": 10,
                     "duration": null,
@@ -210,54 +170,43 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Bent over Rows - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409329-4394d92a97d11695a0c309ae4279c06618e38174940754d23b5726f79b9e079f-d_320x180?r=pad",
+                    "id": "67289ddd240261923db473fe",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Pendlay Rows - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409675-641701d692f2b6ce68b94d20d214fcb66adb773265f9148fc84ac9b6059ccd7f-d_320x180?r=pad",
+                    "id": "67289dfd240261923db473ff",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Single Arm Rows - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
+                    "id": "67289e17240261923db47400",
                     "sets": 4,
                     "reps": 7,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Barbell Wrists Curls",
-                    "image": "https://i.vimeocdn.com/video/1140673067-f4f1d98de3cc3366ef0618dd8932169e288f04ea3af96fe0198dd829a110dd01-d_320x180?r=pad",
+                    "id": "67289f4e240261923db47407",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Pronated Barbell Curls",
-                    "image": "https://i.vimeocdn.com/video/887739841-5cd4c8a3bc6068c6c32d2bce890e9e3c74e45216ee12f6faaa5d536652124526-d_320x180?r=pad",
+                    "id": "6728a1a0240261923db47414",
+                    
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Dumbbell Bicep Curls 21s",
-                    "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
+                    "id": "67289e90240261923db47404",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -273,27 +222,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Shoulder to Shoulder",
-                    "image": "https://i.vimeocdn.com/video/1214140244-f6c3dde3d715981f06b33c2199f0416c676f1328890a8b9ff782722050b1eb62-d_320x180?r=pad",
+                    "id": "67289f6c240261923db47408",
                     "sets": 3,
                     "reps": 7,
                     "duration": null,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Wall Walks",
-                    "image": "https://i.vimeocdn.com/video/681292243-7a1c02dc5b382858c01b6e750c4d3e5f2e82aa4740b7102cc24b294f2a7dbcdb-d_320x180?r=pad",
+                    "id": "67289f8a240261923db47409",
                     "sets": 3,
                     "reps": 10,
                     "duration": null,
@@ -302,63 +245,49 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Military Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                    "id": "67289fa5240261923db4740a",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Dumbbell Arnold Press Standing",
-                    "image": "https://i.vimeocdn.com/video/882424408-21d4d5ba37a296c16d8a2d8ba55b40d3dc1dc3285d8b296d2cc6e02c48054de0-d_320x180?r=pad",
+                    "id": "67289fc4240261923db4740b",
                     "sets": 4,
                     "reps": 7,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Upright Rows - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409575-76cef02fa4b53dc9d71b0114e01567b7146fbf8cfe2918be45c6fa49a4855170-d_320x180?r=pad",
+                    "id": "6728a1e1240261923db47415",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Lateral to frontal Raises Dumbbells",
-                    "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
+                    "id": "67289ffa240261923db4740d",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Laying Dumbbell Reverse Flys",
-                    "image": "https://i.vimeocdn.com/video/911052221-7791bc60efa757ddf68c443514d86eaaf08edcb8e2a4fd4b47cba281c0c50bf6-d_320x180?r=pad",
+                    "id": "6728a20f240261923db47416",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Shoulder Shrugs Behind the Back Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160410229-58541b4dc157b3036473361470466a8a8a138eca7fd9f76e07f2532ddd74566c-d_320x180?r=pad",
+                    "id": "6728a030240261923db4740f",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Rear Delt Fly's Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1781369554-ce76b01b37753b7f0297152b84cdc8f45aedfc40a3be2394ae93e0196e248665-d_320x180?r=pad",
+                    "id": "6728a04d240261923db47410",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -375,27 +304,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "High Knee Taps",
-                    "image": "https://i.vimeocdn.com/video/911525541-1ac574269129c785eb32a1d1ff0ad236b0271c1180c26ee177a13eed319f495d-d_320x180?r=pad",
+                    "id": "6728a069240261923db47411",
                     "sets": 3,
                     "reps": null,
                     "duration": 30,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Bicycles",
-                    "image": "https://i.vimeocdn.com/video/1802488299-01e972ec00a245507a26fe5f3561b53064a5d89e07a04e1d0720ec37703de548-d_320x180?r=pad",
+                    "id": "6728a087240261923db47412",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Switching Mountain Climbers",
-                    "image": "https://i.vimeocdn.com/video/907486615-93650cdf57767497b91bb08c64b593cd8237c021944667d48b9bcea912cdeaf3-d_320x180?r=pad",
+                    "id": "6728a09f240261923db47413",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
@@ -404,54 +327,42 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Plate Turns",
-                    "image": "https://i.vimeocdn.com/video/887739723-c9853af9dec952312c4e06e1a4b5f2c071fdfbde6b4d0d0055743b81b5772653-d_320x180?r=pad",
+                    "id": "6728a22d240261923db47417",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Russian Twist Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                    "id": "6728a249240261923db47418",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Jack Knife - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698327-c0b441fef9be47930116429e8947a59e895bcbf7822e9305856cba97be1a2222-d_320x180?r=pad",
+                    "id": "6728a264240261923db47419",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Alternating Leg Raises Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698898-55fc7bb3fbb9899d905e4c735bc61fe7870ca01c4a240d305f6c867d4dd3f083-d_320x180?r=pad",
+                    "id": "6728a28f240261923db4741a",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Reach Ups",
-                    "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                    "id": "6728a2a6240261923db4741b",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Boat Hold Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                    "id": "6728a2c7240261923db4741c",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -468,18 +379,14 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Low Plank to High Plank",
-                    "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                    "id": "67287a29240261923db473eb",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
@@ -488,90 +395,70 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                    "id": "67287af5240261923db473ed",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Bench Flys - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                    "id": "67287b5a240261923db473ee",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Inlince Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1744539118-43fff7bde9d127379855638eb9c2e59f69add7f5e947b2cb644d5c42ec85f8db-d_320x180?r=pad",
+                    "id": "67289bd6240261923db473f0",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m7",
-                    "title": "Bench Press Neutral Grip - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157688517-3229a182fb9a0cfd205388a49cc185474d279c2fe08472ee9f22a6b7e6532a3f-d_320x180?r=pad",
+                    "id": "6728a2e8240261923db4741d",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m8",
-                    "title": "Dumbbell Cross Alternating Frontal Raises",
-                    "image": "https://i.vimeocdn.com/video/882424906-14294d634b9fdc07056fc6b9a9dad927d410809943842f1e020736c84cd60e31-d_320x180?r=pad",
+                    "id": "6728a351240261923db4741e",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Skull Crushers - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157688747-f2529bfd30beb4affcd17c8f3c908934e824e787b7ac7626f53687cc652aa6b8-d_320x180?r=pad",
+                    "id": "67289ba7240261923db473ef",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m9",
-                    "title": "Bench Press Close Grip",
-                    "image": "https://i.vimeocdn.com/video/1157688364-20b999a4fef12f8e12780e242f42ef83912fe530fba1067b384c1152b4c9916b-d_320x180?r=pad",
+                    "id": "6728a396240261923db4741f",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Triceps Kickbacks - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272535-480d76eb889dd0f5545a8dd5a74f0d53ed4b71b4266491c58b8c60e5c8c01f42-d_320x180?r=pad",
+                    "id": "67289bfc240261923db473f1",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Laying Single Arm Cross Over Tricep Extension Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1157688526-e96797502d14a7825f04ec88bffb6aa034f9443a4e2a5822d055ab13745bd6fa-d_320x180?r=pad",
+                    "id": "6728a3b4240261923db47420",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Overhead Extension - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                    "id": "67289c28240261923db473f2",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -588,18 +475,14 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jump rope",
-                    "image": "https://i.vimeocdn.com/video/729201729-1fbbec562ecbd0dedaaebb9d80f8faa17ab35391a848ebf0fe2f065c3e821a75-d_320x180?r=pad",
+                    "id": "67289c64240261923db473f3",
                     "sets": 3,
                     "reps": null,
                     "duration": 45,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Jump Squats",
-                    "image": "https://i.vimeocdn.com/video/911526483-6029401637e4acefe8ec7b308ff69f66802cff53ef02d7f285ec53a832ab9806-d_320x180?r=pad",
+                    "id": "67289c83240261923db473f4",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
@@ -608,81 +491,63 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Squats - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
+                    "id": "67289cc9240261923db473f5",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Dead Lifts - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409399-72f63f5b21821c5d2ab6b9404fee8b9ca44c5f6fa1ca857f35d47594ba1c3d7b-d_320x180?r=pad",
+                    "id": "67289ce6240261923db473f6",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m8",
-                    "title": "Front Squad - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1067227207-6d8998aadd98100ae2afddbb2cbd986072ccba468f7db2331f0d14d6325a3b4c-d_320x180?r=pad",
+                    "id": "6728a479240261923db47424",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Side Squat - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/868658950-f0dc4f082710ca717f85bcbec3301868d29c93eb34c962cfd02396e2c7fc5fbe-d_320x180?r=pad",
+                    "id": "67289d21240261923db473f8",
                     "sets": 4,
                     "reps": 7,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Squat Lunge - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/866678726-950d0a4b89046e146a47c9564b7e91084e38a454bfe86f52e42fd1b313dd2ae3-d_320x180?r=pad",
+                    "id": "67289d00240261923db473f7",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 120
                 },
                 {
-                    "id": "m5",
-                    "title": "Single Let Glute Bridge - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1080904925-28f824df1e36c605a8e5cc4d373985a990092e0580034859df221afd763d4042-d_320x180?r=pad",
+                    "id": "67289d39240261923db473f9",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Calf Raises - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
+                    "id": "67289d56240261923db473fa",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m9",
-                    "title": "Single Leg Calf Raises - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1080904949-9e0009d30c807eb6d85f5fda39a1f66b84e81fa91ca0aba24f0494c63182e73b-d_320x180?r=pad",
+                    "id": "6728a494240261923db47425",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m7",
-                    "title": "Tip Toe Wall Sit Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/885229269-5a52d7861bec127c239d0641f0465c635055ea66462aad74bf5c33c22627f857-d_320x180?r=pad",
+                    "id": "67289d78240261923db473fb",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
@@ -698,27 +563,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Reverse Plank Leans",
-                    "image": "https://i.vimeocdn.com/video/907400860-4cd0c17a6b4619e202e17d2d6ee3445ec03ed8b98a56a1fd33ccb1076675501e-d_320x180?r=pad",
+                    "id": "67289d9d240261923db473fc",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Dumbbell Renegade Rows",
-                    "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                    "id": "67289dbd240261923db473fd",
                     "sets": 3,
                     "reps": 10,
                     "duration": null,
@@ -727,90 +586,70 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Bent over Rows - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409329-4394d92a97d11695a0c309ae4279c06618e38174940754d23b5726f79b9e079f-d_320x180?r=pad",
+                    "id": "67289ddd240261923db473fe",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Pendlay Rows - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409675-641701d692f2b6ce68b94d20d214fcb66adb773265f9148fc84ac9b6059ccd7f-d_320x180?r=pad",
+                    "id": "67289dfd240261923db473ff",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Single Arm Rows - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
+                    "id": "67289e17240261923db47400",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m8",
-                    "title": "Bent Over Rows Deadlift - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700273282-000e672496754aa5cea9f5981f502ebea1167d3d84424e21c86624aee4b1367f-d_320x180?r=pad",
+                    "id": "67289e31240261923db47401",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m7",
-                    "title": "Dumbbell Laying Skis",
-                    "image": "https://i.vimeocdn.com/video/911052253-728024b07d3a29c9a0b804027d89c13589a085a88c54131059206f1539400d79-d_320x180?r=pad",
+                    "id": "67289e4e240261923db47402",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 120
                 },
                 {
-                    "id": "m9",
-                    "title": "Curls Wide Reverse Grip - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409426-fb4b732cf79627a3cc168d81e46206132913dddf37cbb33095b871056ff61c16-d_320x180?r=pad",
+                    "id": "67289e72240261923db47403",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 120
                 },
                 {
-                    "id": "m6",
-                    "title": "Dumbbell Bicep Curls 21s",
-                    "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
+                    "id": "67289e90240261923db47404",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Dumbbel Curl 3 Grips",
-                    "image": "https://i.vimeocdn.com/video/866677622-aa68cd37a4f1f0cf46e00545526e2c3aba1c5e6fc8036c7456228fbf7657cb86-d_320x180?r=pad",
+                    "id": "67289eaf240261923db47405",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m10",
-                    "title": "Seated Concentrated Dumbbell Curl",
-                    "image": "https://i.vimeocdn.com/video/883475745-ca8951b28d889e2fd07203b546bf5bd2ec52b581f38d0e033ed2667bda3ce6bf-d_320x180?r=pad",
+                    "id": "67289eed240261923db47406",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Barbell Wrists Curls",
-                    "image": "https://i.vimeocdn.com/video/1140673067-f4f1d98de3cc3366ef0618dd8932169e288f04ea3af96fe0198dd829a110dd01-d_320x180?r=pad",
+                    "id": "67289f4e240261923db47407",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
@@ -826,27 +665,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Shoulder to Shoulder",
-                    "image": "https://i.vimeocdn.com/video/1214140244-f6c3dde3d715981f06b33c2199f0416c676f1328890a8b9ff782722050b1eb62-d_320x180?r=pad",
+                    "id": "67289f6c240261923db47408",
                     "sets": 3,
                     "reps": 7,
                     "duration": null,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Wall Walks",
-                    "image": "https://i.vimeocdn.com/video/681292243-7a1c02dc5b382858c01b6e750c4d3e5f2e82aa4740b7102cc24b294f2a7dbcdb-d_320x180?r=pad",
+                    "id": "67289f8a240261923db47409",
                     "sets": 3,
                     "reps": 10,
                     "duration": null,
@@ -855,63 +688,49 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Military Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                    "id": "67289fa5240261923db4740a",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Dumbbell Arnold Press Standing",
-                    "image": "https://i.vimeocdn.com/video/882424408-21d4d5ba37a296c16d8a2d8ba55b40d3dc1dc3285d8b296d2cc6e02c48054de0-d_320x180?r=pad",
+                    "id": "67289fc4240261923db4740b",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Upright Rows to forward Extension Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160409633-9a9a7efa4bce9ac64b879cd71862337c45ddfd6d03fb93a862b0a14a6db6a0a2-d_320x180?r=pad",
+                    "id": "67289fe0240261923db4740c",
                     "sets": 4,
                     "reps": 7,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Lateral to frontal Raises Dumbbells",
-                    "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
+                    "id": "67289ffa240261923db4740d",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Lateral Raises Bent Arm Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/868660000-adf05e99f47a708c4044d6afaf1f77e3dfbc5c956772e1ba99be6339182e3739-d_320x180?r=pad",
+                    "id": "6728a019240261923db4740e",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Shoulder Shrugs Behind the Back Barbell",
-                    "image": "https://i.vimeocdn.com/video/1160410229-58541b4dc157b3036473361470466a8a8a138eca7fd9f76e07f2532ddd74566c-d_320x180?r=pad",
+                    "id": "6728a030240261923db4740f",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Rear Delt Fly's Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1781369554-ce76b01b37753b7f0297152b84cdc8f45aedfc40a3be2394ae93e0196e248665-d_320x180?r=pad",
+                    "id": "6728a04d240261923db47410",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -928,27 +747,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "High Knee Taps",
-                    "image": "https://i.vimeocdn.com/video/911525541-1ac574269129c785eb32a1d1ff0ad236b0271c1180c26ee177a13eed319f495d-d_320x180?r=pad",
+                    "id": "6728a069240261923db47411",
                     "sets": 3,
                     "reps": null,
                     "duration": 30,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Bicycles",
-                    "image": "https://i.vimeocdn.com/video/1802488299-01e972ec00a245507a26fe5f3561b53064a5d89e07a04e1d0720ec37703de548-d_320x180?r=pad",
+                    "id": "6728a087240261923db47412",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Switching Mountain Climbers",
-                    "image": "https://i.vimeocdn.com/video/907486615-93650cdf57767497b91bb08c64b593cd8237c021944667d48b9bcea912cdeaf3-d_320x180?r=pad",
+                    "id": "6728a09f240261923db47413",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
@@ -957,54 +770,42 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Plate Turns",
-                    "image": "https://i.vimeocdn.com/video/887739723-c9853af9dec952312c4e06e1a4b5f2c071fdfbde6b4d0d0055743b81b5772653-d_320x180?r=pad",
+                    "id": "6728a22d240261923db47417",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Russian Twist Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                    "id": "6728a249240261923db47418",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Jack Knife - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698327-c0b441fef9be47930116429e8947a59e895bcbf7822e9305856cba97be1a2222-d_320x180?r=pad",
+                    "id": "6728a264240261923db47419",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Alternating Leg Raises Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698898-55fc7bb3fbb9899d905e4c735bc61fe7870ca01c4a240d305f6c867d4dd3f083-d_320x180?r=pad",
+                    "id": "6728a28f240261923db4741a",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Reach Ups",
-                    "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                    "id": "6728a2a6240261923db4741b",
                     "sets": 4,
                     "reps": null,
                     "duration": 40,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Boat Hold Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                    "id": "6728a2c7240261923db4741c",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -1021,27 +822,21 @@
         {
             "warmUp": [
                 {
-                    "id": "w1",
-                    "title": "Jumping Jacks",
-                    "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                    "id": "67287a7f240261923db473ec",
                     "sets": 3,
                     "reps": null,
                     "duration": 40,
                     "rest": 30
                 },
                 {
-                    "id": "w2",
-                    "title": "Low Plank to High Plank",
-                    "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                    "id": "67287a29240261923db473eb",
                     "sets": 3,
                     "reps": 12,
                     "duration": null,
                     "rest": 30
                 },
                 {
-                    "id": "w3",
-                    "title": "Push Ups",
-                    "image": "https://i.vimeocdn.com/video/1802486780-8bffbcf359e0651554317d0880972e0e82c23324c7a9b223f62be6b8ef3c1987-d_320x180?r=pad",
+                    "id": "6728a4b0240261923db47426",
                     "sets": 3,
                     "reps": 20,
                     "duration": null,
@@ -1050,60 +845,49 @@
             ],
             "main": [
                 {
-                    "id": "m1",
-                    "title": "Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                    "id": "67287af5240261923db473ed",
                     "sets": 4,
                     "reps": 15,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m2",
-                    "title": "Inlince Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1744539118-43fff7bde9d127379855638eb9c2e59f69add7f5e947b2cb644d5c42ec85f8db-d_320x180?r=pad",
+                    "id": "67289bd6240261923db473f0",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m3",
-                    "title": "Bench Flys - Dumbbell",
-                    "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                    "id": "67287b5a240261923db473ee",
                     "sets": 4,
                     "reps": 15,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m4",
-                    "title": "Incline Supinated Twisting Bench Press - Barbell",
-                    "image": "https://i.vimeocdn.com/video/1146665834-1e6dad1279fa44e858a42898978075b16bb02c0cef737656991723c6d624827a-d_320x180?r=pad",
+                    "id": "6728a4ee240261923db47427",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m5",
-                    "title": "Bench Press Alternating - Barbell",
+                    "id": "6728a55e240261923db47428",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m6",
-                    "title": "Incline Bench Press (Close Grip) - Dumbbell",
+                    "id": "6728a597240261923db47429",
                     "sets": 4,
                     "reps": 12,
                     "duration": null,
                     "rest": 45
                 },
                 {
-                    "id": "m7",
-                    "title": "Dumbbell Cross Alternating Frontal Raises",
+                    "id": "6728a351240261923db4741e",
                     "sets": 4,
                     "reps": 10,
                     "duration": null,
@@ -1120,27 +904,21 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Low Plank to High Plank",
-                        "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                        "id": "67287a29240261923db473eb",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Push Ups",
-                        "image": "https://i.vimeocdn.com/video/1802486780-8bffbcf359e0651554317d0880972e0e82c23324c7a9b223f62be6b8ef3c1987-d_320x180?r=pad",
+                        "id": "6728a4b0240261923db47426",
                         "sets": 3,
                         "reps": 20,
                         "duration": null,
@@ -1149,61 +927,50 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                        "id": "67287af5240261923db473ed",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Inlince Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1744539118-43fff7bde9d127379855638eb9c2e59f69add7f5e947b2cb644d5c42ec85f8db-d_320x180?r=pad",
+                        "id": "67289bd6240261923db473f0",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bench Flys - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                        "id": "67287b5a240261923db473ee",
+
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Incline Supinated Twisting Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1146665834-1e6dad1279fa44e858a42898978075b16bb02c0cef737656991723c6d624827a-d_320x180?r=pad",
+                        "id": "6728a4ee240261923db47427",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m5",
-                        "title": "Bench Press Incline Neutral Grip",
-                        "image": "https://i.vimeocdn.com/video/1157688500-416eeaba4cd7f4c3f68339cf0b6c14b46692eab9bf015f8cc012881556dc2bee-d_320x180?r=pad",
+                        "id": "6728a703240261923db4742a",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Cross Alternating Frontal Raises",
+                        "id": "6728a351240261923db4741e",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m6",
-                        "title": "Explosive Push Ups",
+                        "id": "6728a73f240261923db4742b",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
@@ -1220,27 +987,21 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Plank Knees to Elbows",
-                        "image": "https://i.vimeocdn.com/video/907394963-691f33b1d731cd086a5d9a95717b8f23d9ad00320b23d593d0dc120a1b9e19ac-d_320x180?r=pad",
+                        "id": "6728a780240261923db4742c",
                         "sets": 3,
                         "reps": 15,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Reverse Wide Plank Hold",
-                        "image": "https://i.vimeocdn.com/video/907401827-5e98894cb836229f1bc3dda55bade37e2a95318e9197ae2911db6cef1fe8181b-d_320x180?r=pad",
+                        "id": "6728a7b5240261923db4742d",
                         "sets": 3,
                         "reps": 0,
                         "duration": 10,
@@ -1249,72 +1010,56 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bent over Rows - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409329-4394d92a97d11695a0c309ae4279c06618e38174940754d23b5726f79b9e079f-d_320x180?r=pad",
+                        "id": "67289ddd240261923db473fe",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Renegade Rows",
-                        "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                        "id": "67289dbd240261923db473fd",
+                        "sets": 4,                        
+                        "reps": 12,
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289e31240261923db47401",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bent over Rows Deadlift - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700273282-000e672496754aa5cea9f5981f502ebea1167d3d84424e21c86624aee4b1367f-d_320x180?r=pad",
+                        "id": "6728a7da240261923db4742e",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Deadlifts",
-                        "image": "https://i.vimeocdn.com/video/1160409399-72f63f5b21821c5d2ab6b9404fee8b9ca44c5f6fa1ca857f35d47594ba1c3d7b-d_320x180?r=pad",
+                        "id": "6728a7fa240261923db4742f",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m5",
-                        "title": "Dumbbell Laying Ski's",
-                        "image": "https://i.vimeocdn.com/video/911052253-728024b07d3a29c9a0b804027d89c13589a085a88c54131059206f1539400d79-d_320x180?r=pad",
-                        "sets": 4,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m6",
-                        "title": "Single Arm Rows - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
+                        "id": "67289e17240261923db47400",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Single Arm Skii's",
-                        "image": "https://i.vimeocdn.com/video/882429535-cae2f45cfb62f5b0d0bdeadab974f90da758d6d1b87b96a1be25fbb79a03addd-d_320x180?r=pad",
+                        "id": "6728a81c240261923db47430",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m8",
-                        "title": "L Sit Hold",
-                        "image": "https://i.vimeocdn.com/video/1214141322-2b0caf8f7e02fa2c1372e00751d998d6bb9c5904a2ba18360a3c75d5606619ad-d_320x180?r=pad",
+                        "id": "6728a838240261923db47431",
                         "sets": 4,
                         "reps": null,
                         "duration": 60,
@@ -1331,27 +1076,21 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jump rope",
-                        "image": "https://i.vimeocdn.com/video/729201729-1fbbec562ecbd0dedaaebb9d80f8faa17ab35391a848ebf0fe2f065c3e821a75-d_320x180?r=pad",
-                        "sets": 3,
+                        "id": "67289c64240261923db473f3",
+                        "sets": 3,                        
                         "reps": null,
                         "duration": 45,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Switching Mountain Climbers",
-                        "image": "https://i.vimeocdn.com/video/907486615-93650cdf57767497b91bb08c64b593cd8237c021944667d48b9bcea912cdeaf3-d_320x180?r=pad",
+                        "id": "6728a09f240261923db47413",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Jump Squats",
-                        "image": "https://i.vimeocdn.com/video/911526483-6029401637e4acefe8ec7b308ff69f66802cff53ef02d7f285ec53a832ab9806-d_320x180?r=pad",
+                        "id": "67289c83240261923db473f4",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
@@ -1360,108 +1099,84 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Squats - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
-                        "sets": 3,
+                        "id": "67289cc9240261923db473f5",
+                        "sets": 3,                        
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Reverse Lunges - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409396-9d18ef66817dde633d8a8a39d126b516c4fc38778a95e0bebef908342960d796-d_320x180?r=pad",
+                        "id": "6728a85c240261923db47432",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bulgarian Split Squats - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1080904843-d2ad28e598e99bdd36378704175dfa057105851f255a8648aea63c1fab23b94c-d_320x180?r=pad",
+                        "id": "6728a879240261923db47433",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Side Squat - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868658950-f0dc4f082710ca717f85bcbec3301868d29c93eb34c962cfd02396e2c7fc5fbe-d_320x180?r=pad",
-                        "sets": 4,
+                        "id": "67289d21240261923db473f8",
+                        "sets": 4,                        
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m5",
-                        "title": "Hip Thrusters - Barbell",
-                        "image": "https://i.vimeocdn.com/video/768935244-94579870841b8f62507a970aa54ed8160a570c42bcb317d27266de97a65518cc-d_320x180?r=pad",
+                        "id": "6728a896240261923db47434",
                         "sets": 4,
                         "reps": 15,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Calf Raises - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
-                        "sets": 4,
+                        "id": "67289d56240261923db473fa",
+                        "sets": 4,                        
                         "reps": 15,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Tip Toe Wall Sit Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/885229269-5a52d7861bec127c239d0641f0465c635055ea66462aad74bf5c33c22627f857-d_320x180?r=pad",
-                        "sets": 4,
+                        "id": "67289d78240261923db473fb",
+                        "sets": 4,                        
                         "reps": null,
                         "duration": 45,
                         "rest": 120
                     },
                     {
-                        "id": "m8",
-                        "title": "Russian Twist Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                        "id": "6728a249240261923db47418",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m9",
-                        "title": "Jack Knife - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698327-c0b441fef9be47930116429e8947a59e895bcbf7822e9305856cba97be1a2222-d_320x180?r=pad",
+                        "id": "6728a264240261923db47419",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m10",
-                        "title": "Alternating Leg Raises Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698898-55fc7bb3fbb9899d905e4c735bc61fe7870ca01c4a240d305f6c867d4dd3f083-d_320x180?r=pad",
+                        "id": "6728a28f240261923db4741a0",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m11",
-                        "title": "Reach Ups",
-                        "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                        "id": "m6728a2a6240261923db4741b",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m12",
-                        "title": "Boat Hold Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                        "id": "6728a2c7240261923db4741c2",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
@@ -1478,28 +1193,22 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Low Plank to High Plank",
-                        "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                        "id": "67287a29240261923db473eb",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Reverse Plank Leans",
-                        "image": "https://i.vimeocdn.com/video/907400860-4cd0c17a6b4619e202e17d2d6ee3445ec03ed8b98a56a1fd33ccb1076675501e-d_320x180?r=pad",
-                        "sets": 3,
+                        "id": "67289d9d240261923db473fc",
+                        "sets": 3,                        
                         "reps": 12,
                         "duration": null,
                         "rest": 30
@@ -1507,117 +1216,91 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Skull Crushers - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157688747-f2529bfd30beb4affcd17c8f3c908934e824e787b7ac7626f53687cc652aa6b8-d_320x180?r=pad",
+                        "id": "67289ba7240261923db473ef",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Bench Press Close Grip",
-                        "image": "https://i.vimeocdn.com/video/1157688364-20b999a4fef12f8e12780e242f42ef83912fe530fba1067b384c1152b4c9916b-d_320x180?r=pad",
+                        "id": "6728a396240261923db4741f",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Rotating Kickbacks - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698346-5f16f02f4d3e83381adca273ed5f3c5db1946f75b17a86f7659246f93ac3a99a-d_320x180?r=pad",
+                        "id": "6728a8b9240261923db47435",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Overhead Extension - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                        "id": "6728a3d7240261923db47421",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m5",
-                        "title": "Curls Close Reverse Grip Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409707-90fbced18ac5053fb7a8172776d99540e4fc17cd1058903194654c0e8a69a369-d_320x180?r=pad",
+                        "id": "6728a42e240261923db47422",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Dumbbell Curls (3 Grips)",
-                        "image": "https://i.vimeocdn.com/video/866677622-aa68cd37a4f1f0cf46e00545526e2c3aba1c5e6fc8036c7456228fbf7657cb86-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Bicep Curls 21s",
-                        "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
-                        "sets": 3,
+                        "id": "67289e90240261923db47404",
+                        "sets": 3,                        
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m8",
-                        "title": "Barbell Wrists Curls",
-                        "image": "https://i.vimeocdn.com/video/1140673067-f4f1d98de3cc3366ef0618dd8932169e288f04ea3af96fe0198dd829a110dd01-d_320x180?r=pad",
+                        "id": "67289f4e240261923db47407",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m9",
-                        "title": "Military Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                        "id": "67289fa5240261923db4740a",
+                        "sets": 3,                        
+                        "reps": 12,
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289fc4240261923db4740b0",
+                        "sets": 3,                        
+                        "reps": 12,
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289ffa240261923db4740d1",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m10",
-                        "title": "Dumbbell Arnold Press Standing",
-                        "image": "https://i.vimeocdn.com/video/882424408-21d4d5ba37a296c16d8a2d8ba55b40d3dc1dc3285d8b296d2cc6e02c48054de0-d_320x180?r=pad",
+                        "id": "67289ffa240261923db4740d2",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m11",
-                        "title": "Lateral to frontal Raises Dumbbells",
-                        "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m12",
-                        "title": "Lateral to frontal Raises Dumbbells",
-                        "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m13",
-                        "title": "Rear Delt Fly's - Inlcined Bench",
-                        "image": "https://i.vimeocdn.com/video/678490980-57168a2628e638cdf141a077d1774ce18b8ad1a64d01ec105333cd82ae53b099-d_320x180?r=pad",
+                        "id": "6728a8d4240261923db47436",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
@@ -1634,164 +1317,128 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Burpees",
-                        "image": "https://i.vimeocdn.com/video/909340925-f5fc542ebb4ce62d9b8581d9061fa357f1fa8d1319451bd3875b630ff434b0c4-d_320x180?r=pad",
+                        "id": "6728a8f1240261923db47437",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Push Ups",
-                        "image": "https://i.vimeocdn.com/video/1802486780-8bffbcf359e0651554317d0880972e0e82c23324c7a9b223f62be6b8ef3c1987-d_320x180?r=pad",
+                        "id": "6728a4b0240261923db47426",
                         "sets": 3,
                         "reps": 20,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Dumbbell Renegade Rows",
-                        "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                        "id": "67289dbd240261923db473fd",
                         "sets": 3,
-                        "reps": 12,
+                        "reps": 12,                        
                         "duration": null,
                         "rest": 30
                     }
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bent Over Rows Deadlift - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700273282-000e672496754aa5cea9f5981f502ebea1167d3d84424e21c86624aee4b1367f-d_320x180?r=pad",
+                        "id": "67289e31240261923db47401",
+                        "sets": 3,                        
+                        "reps": 12,
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "6728a90b240261923db47438",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Single Arm Rows Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m3",
-                        "title": "Dumbbell Curls (3 Grips)",
-                        "image": "https://i.vimeocdn.com/video/866677622-aa68cd37a4f1f0cf46e00545526e2c3aba1c5e6fc8036c7456228fbf7657cb86-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Dumbbell Biceps Curl 21s",
-                        "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 7,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m5",
-                        "title": "Bench Press Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                        "id": "67287af5240261923db473ed",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Bench Flys Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                        "id": "67287b5a240261923db473ee",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Military Press Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                        "id": "67289fa5240261923db4740a",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m8",
-                        "title": "Single Arm Supinated Triced Kickbacks",
-                        "image": "https://i.vimeocdn.com/video/838713579-b2e479e37d2bdfd6447b1bdc001cb04f77985fb445bf070965a789369bf7106d-d_320x180?r=pad",
+                        "id": "6728a976240261923db47439",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m9",
-                        "title": "Overhead Extension - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                        "id": "6728a3d7240261923db47421",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m10",
-                        "title": "Assisted Pistol Squats Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/847016865-0b5bfc42d655cc3f0fcc23295d3766754ae8ccb5027bab7db6839552f5694c85-d_320x180?r=pad",
+                        "id": "6728a991240261923db4743a",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m11",
-                        "title": "Squats - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
+                        "id": "67289cc9240261923db473f51",
                         "sets": 3,
-                        "reps": 12,
+                        "reps": 12,                        
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m12",
-                        "title": "Calf Raises - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
+                        "id": "67289d56240261923db473fa2",
                         "sets": 3,
-                        "reps": 12,
+                        "reps": 12,                        
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m13",
-                        "title": "Russian Twists Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                        "id": "6728a249240261923db47418",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 45
                     },
                     {
-                        "id": "m14",
-                        "title": "Reach Ups Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                        "id": "m6728a2a6240261923db4741b",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 45
                     },
                     {
-                        "id": "m15",
-                        "title": "Boat Hold Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                        "id": "6728a2c7240261923db4741c5",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
@@ -1808,27 +1455,21 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Low Plank to High Plank",
-                        "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                        "id": "67287a29240261923db473eb",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Push Ups",
-                        "image": "https://i.vimeocdn.com/video/1802486780-8bffbcf359e0651554317d0880972e0e82c23324c7a9b223f62be6b8ef3c1987-d_320x180?r=pad",
+                        "id": "6728a4b0240261923db47426",
                         "sets": 3,
                         "reps": 20,
                         "duration": null,
@@ -1837,63 +1478,50 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                        "id": "67287af5240261923db473ed",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Inlince Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1744539118-43fff7bde9d127379855638eb9c2e59f69add7f5e947b2cb644d5c42ec85f8db-d_320x180?r=pad",
+                        "id": "67289bd6240261923db473f0",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bench Flys - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                        "id": "67287b5a240261923db473ee",
+
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Incline Supinated Twisting Bench Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1146665834-1e6dad1279fa44e858a42898978075b16bb02c0cef737656991723c6d624827a-d_320x180?r=pad",
+                        "id": "6728a4ee240261923db47427",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m5",
-                        "title": "Bench Press Incline Neutral Grip",
-                        "image": "https://i.vimeocdn.com/video/1157688500-416eeaba4cd7f4c3f68339cf0b6c14b46692eab9bf015f8cc012881556dc2bee-d_320x180?r=pad",
+                        "id": "6728a703240261923db4742a",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Cross Alternating Frontal Raises",
-                        "image": "https://i.vimeocdn.com/video/882424906-14294d634b9fdc07056fc6b9a9dad927d410809943842f1e020736c84cd60e31-d_320x180?r=pad",
+                        "id": "6728a351240261923db4741e",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m6",
-                        "title": "Explosive Push Ups",
-                        "image": "https://i.vimeocdn.com/video/906937455-7765449743b5f358f54536b3d5a3bf72495b07cfa80a31d5e981aac663ab26a5-d_320x180?r=pad",
+                        "id": "6728a73f240261923db4742b",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
@@ -1910,27 +1538,21 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Plank Knees to Elbows",
-                        "image": "https://i.vimeocdn.com/video/907394963-691f33b1d731cd086a5d9a95717b8f23d9ad00320b23d593d0dc120a1b9e19ac-d_320x180?r=pad",
+                        "id": "6728a780240261923db4742c",
                         "sets": 3,
                         "reps": 15,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Reverse Wide Plank Hold",
-                        "image": "https://i.vimeocdn.com/video/907401827-5e98894cb836229f1bc3dda55bade37e2a95318e9197ae2911db6cef1fe8181b-d_320x180?r=pad",
+                        "id": "6728a7b5240261923db4742d",
                         "sets": 3,
                         "reps": 0,
                         "duration": 10,
@@ -1939,72 +1561,56 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bent over Rows - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409329-4394d92a97d11695a0c309ae4279c06618e38174940754d23b5726f79b9e079f-d_320x180?r=pad",
+                        "id": "67289ddd240261923db473fe",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Renegade Rows",
-                        "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                        "id": "67289dbd240261923db473fd",
+                        "sets": 4,
+                        "reps": 12,
+                        "duration": null,                        
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289e31240261923db47401",
+                        "sets": 4,
+                        "reps": 12,                        
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "6728a7da240261923db4742e",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bent over Rows Deadlift - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700273282-000e672496754aa5cea9f5981f502ebea1167d3d84424e21c86624aee4b1367f-d_320x180?r=pad",
+                        "id": "6728a7fa240261923db4742f",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Deadlifts",
-                        "image": "https://i.vimeocdn.com/video/1160409399-72f63f5b21821c5d2ab6b9404fee8b9ca44c5f6fa1ca857f35d47594ba1c3d7b-d_320x180?r=pad",
-                        "sets": 4,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m5",
-                        "title": "Dumbbell Laying Ski's",
-                        "image": "https://i.vimeocdn.com/video/911052253-728024b07d3a29c9a0b804027d89c13589a085a88c54131059206f1539400d79-d_320x180?r=pad",
-                        "sets": 4,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m6",
-                        "title": "Single Arm Rows - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
+                        "id": "67289e17240261923db47400",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Single Arm Skii's",
-                        "image": "https://i.vimeocdn.com/video/882429535-cae2f45cfb62f5b0d0bdeadab974f90da758d6d1b87b96a1be25fbb79a03addd-d_320x180?r=pad",
+                        "id": "6728a81c240261923db47430",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m8",
-                        "title": "L Sit Hold",
-                        "image": "https://i.vimeocdn.com/video/1214141322-2b0caf8f7e02fa2c1372e00751d998d6bb9c5904a2ba18360a3c75d5606619ad-d_320x180?r=pad",
+                        "id": "6728a838240261923db47431",
                         "sets": 4,
                         "reps": null,
                         "duration": 60,
@@ -2021,28 +1627,22 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jump rope",
-                        "image": "https://i.vimeocdn.com/video/729201729-1fbbec562ecbd0dedaaebb9d80f8faa17ab35391a848ebf0fe2f065c3e821a75-d_320x180?r=pad",
+                        "id": "67289c64240261923db473f3",
                         "sets": 3,
-                        "reps": null,
+                        "reps": null,                        
                         "duration": 45,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Switching Mountain Climbers",
-                        "image": "https://i.vimeocdn.com/video/907486615-93650cdf57767497b91bb08c64b593cd8237c021944667d48b9bcea912cdeaf3-d_320x180?r=pad",
+                        "id": "6728a09f240261923db47413",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Jump Squats",
-                        "image": "https://i.vimeocdn.com/video/911526483-6029401637e4acefe8ec7b308ff69f66802cff53ef02d7f285ec53a832ab9806-d_320x180?r=pad",
-                        "sets": 3,
+                        "id": "67289c83240261923db473f4",
+                        "sets": 3,                        
                         "reps": 12,
                         "duration": null,
                         "rest": 30
@@ -2050,108 +1650,84 @@
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Squats - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
+                        "id": "67289cc9240261923db473f5",
                         "sets": 3,
                         "reps": 12,
-                        "duration": null,
+                        "duration": null,                        
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Reverse Lunges - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409396-9d18ef66817dde633d8a8a39d126b516c4fc38778a95e0bebef908342960d796-d_320x180?r=pad",
+                        "id": "6728a85c240261923db47432",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Bulgarian Split Squats - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1080904843-d2ad28e598e99bdd36378704175dfa057105851f255a8648aea63c1fab23b94c-d_320x180?r=pad",
+                        "id": "6728a879240261923db47433",
                         "sets": 4,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Side Squat - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868658950-f0dc4f082710ca717f85bcbec3301868d29c93eb34c962cfd02396e2c7fc5fbe-d_320x180?r=pad",
+                        "id": "67289d21240261923db473f8",
                         "sets": 4,
-                        "reps": 12,
+                        "reps": 12,                        
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m5",
-                        "title": "Hip Thrusters - Barbell",
-                        "image": "https://i.vimeocdn.com/video/768935244-94579870841b8f62507a970aa54ed8160a570c42bcb317d27266de97a65518cc-d_320x180?r=pad",
+                        "id": "6728a896240261923db47434",
                         "sets": 4,
                         "reps": 15,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Calf Raises - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
+                        "id": "67289d56240261923db473fa",
                         "sets": 4,
                         "reps": 15,
-                        "duration": null,
+                        "duration": null,                        
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Tip Toe Wall Sit Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/885229269-5a52d7861bec127c239d0641f0465c635055ea66462aad74bf5c33c22627f857-d_320x180?r=pad",
+                        "id": "67289d78240261923db473fb",
                         "sets": 4,
-                        "reps": null,
+                        "reps": null,                        
                         "duration": 45,
                         "rest": 120
                     },
                     {
-                        "id": "m8",
-                        "title": "Russian Twist Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                        "id": "6728a249240261923db47418",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m9",
-                        "title": "Jack Knife - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698327-c0b441fef9be47930116429e8947a59e895bcbf7822e9305856cba97be1a2222-d_320x180?r=pad",
+                        "id": "6728a264240261923db47419",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m10",
-                        "title": "Alternating Leg Raises Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698898-55fc7bb3fbb9899d905e4c735bc61fe7870ca01c4a240d305f6c867d4dd3f083-d_320x180?r=pad",
+                        "id": "6728a28f240261923db4741a0",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m11",
-                        "title": "Reach Ups",
-                        "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                        "id": "m6728a2a6240261923db4741b",
                         "sets": 4,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "m12",
-                        "title": "Boat Hold Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                        "id": "6728a2c7240261923db4741c2",
                         "sets": 4,
                         "reps": 10,
                         "duration": null,
@@ -2168,146 +1744,114 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Jumping Jacks",
-                        "image": "https://i.vimeocdn.com/video/911527351-3bcdc99e82460de50824dfeb0ee9683b5d59635b714630731ee6c902e55e9a0c-d_320x180?r=pad",
+                        "id": "67287a7f240261923db473ec",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Low Plank to High Plank",
-                        "image": "https://i.vimeocdn.com/video/906938722-c9f9c0aef4dbf9e4e1ccafd029bfbdebbe4173d6c50aafdd78547a70ec66c909-d_320x180?r=pad",
+                        "id": "67287a29240261923db473eb",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Reverse Plank Leans",
-                        "image": "https://i.vimeocdn.com/video/907400860-4cd0c17a6b4619e202e17d2d6ee3445ec03ed8b98a56a1fd33ccb1076675501e-d_320x180?r=pad",
+                        "id": "67289d9d240261923db473fc",
                         "sets": 3,
-                        "reps": 12,
+                        "reps": 12,                        
                         "duration": null,
                         "rest": 30
                     }
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Skull Crushers - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157688747-f2529bfd30beb4affcd17c8f3c908934e824e787b7ac7626f53687cc652aa6b8-d_320x180?r=pad",
+                        "id": "67289ba7240261923db473ef",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Bench Press Close Grip",
-                        "image": "https://i.vimeocdn.com/video/1157688364-20b999a4fef12f8e12780e242f42ef83912fe530fba1067b384c1152b4c9916b-d_320x180?r=pad",
+                        "id": "6728a396240261923db4741f",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m3",
-                        "title": "Rotating Kickbacks - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698346-5f16f02f4d3e83381adca273ed5f3c5db1946f75b17a86f7659246f93ac3a99a-d_320x180?r=pad",
+                        "id": "6728a8b9240261923db47435",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Overhead Extension - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                        "id": "6728a3d7240261923db47421",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m5",
-                        "title": "Curls Close Reverse Grip Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409707-90fbced18ac5053fb7a8172776d99540e4fc17cd1058903194654c0e8a69a369-d_320x180?r=pad",
+                        "id": "6728a42e240261923db47422",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Dumbbell Curls (3 Grips)",
-                        "image": "https://i.vimeocdn.com/video/866677622-aa68cd37a4f1f0cf46e00545526e2c3aba1c5e6fc8036c7456228fbf7657cb86-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Dumbbell Bicep Curls 21s",
-                        "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
-                        "reps": 10,
+                        "reps": 10,                        
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m8",
-                        "title": "Barbell Wrists Curls",
-                        "image": "https://i.vimeocdn.com/video/1140673067-f4f1d98de3cc3366ef0618dd8932169e288f04ea3af96fe0198dd829a110dd01-d_320x180?r=pad",
+                        "id": "67289f4e240261923db47407",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m9",
-                        "title": "Military Press - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                        "id": "67289fa5240261923db4740a",
+                        "sets": 3,
+                        "reps": 12,                        
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289fc4240261923db4740b0",
+                        "sets": 3,
+                        "reps": 12,                        
+                        "duration": null,
+                        "rest": 45
+                    },
+                    {
+                        "id": "67289ffa240261923db4740d1",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m10",
-                        "title": "Dumbbell Arnold Press Standing",
-                        "image": "https://i.vimeocdn.com/video/882424408-21d4d5ba37a296c16d8a2d8ba55b40d3dc1dc3285d8b296d2cc6e02c48054de0-d_320x180?r=pad",
+                        "id": "67289ffa240261923db4740d2",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m11",
-                        "title": "Lateral to frontal Raises Dumbbells",
-                        "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m12",
-                        "title": "Lateral to frontal Raises Dumbbells",
-                        "image": "https://i.vimeocdn.com/video/1700272422-ac7d9d1b58a992c0cd5d54daaf6c35b55888cf89b8241a0f515db44fee1cd268-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m13",
-                        "title": "Rear Delt Fly's - Inlcined Bench",
-                        "image": "https://i.vimeocdn.com/video/678490980-57168a2628e638cdf141a077d1774ce18b8ad1a64d01ec105333cd82ae53b099-d_320x180?r=pad",
+                        "id": "6728a8d4240261923db47436",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
@@ -2324,164 +1868,130 @@
             {
                 "warmUp": [
                     {
-                        "id": "w1",
-                        "title": "Burpees",
-                        "image": "https://i.vimeocdn.com/video/909340925-f5fc542ebb4ce62d9b8581d9061fa357f1fa8d1319451bd3875b630ff434b0c4-d_320x180?r=pad",
+                        "id": "6728a8f1240261923db47437",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w2",
-                        "title": "Push Ups",
-                        "image": "https://i.vimeocdn.com/video/1802486780-8bffbcf359e0651554317d0880972e0e82c23324c7a9b223f62be6b8ef3c1987-d_320x180?r=pad",
+                        "id": "6728a4b0240261923db47426",
                         "sets": 3,
                         "reps": 20,
                         "duration": null,
                         "rest": 30
                     },
                     {
-                        "id": "w3",
-                        "title": "Dumbbell Renegade Rows",
-                        "image": "https://i.vimeocdn.com/video/1700272282-beb5448d7d1f9fe2f1438e145d8b2134e8ec168c53cbb14a35ed73259d044563-d_320x180?r=pad",
+                        "id": "67289dbd240261923db473fd",
+
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
-                        "rest": 30
-                    }
+                        "rest": 30                    }
                 ],
                 "main": [
                     {
-                        "id": "m1",
-                        "title": "Bent Over Rows Deadlift - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700273282-000e672496754aa5cea9f5981f502ebea1167d3d84424e21c86624aee4b1367f-d_320x180?r=pad",
+                        "id": "67289e31240261923db47401",
+                        "sets": 3,
+                        "reps": 12,
+                        "duration": null,                        
+                        "rest": 45
+                    },
+                    {
+                        "id": "6728a90b240261923db47438",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m2",
-                        "title": "Single Arm Rows Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/868671133-7004510a84de72eca20b358205edfa7012af2e807bd68d713508c4c4d607afad-d_320x180?r=pad",
-                        "sets": 3,
-                        "reps": 12,
-                        "duration": null,
-                        "rest": 45
-                    },
-                    {
-                        "id": "m3",
-                        "title": "Dumbbell Curls (3 Grips)",
-                        "image": "https://i.vimeocdn.com/video/866677622-aa68cd37a4f1f0cf46e00545526e2c3aba1c5e6fc8036c7456228fbf7657cb86-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m4",
-                        "title": "Dumbbell Biceps Curl 21s",
-                        "image": "https://i.vimeocdn.com/video/911052471-9946b99495868933ece813887064da006c604b5d4bfe29461288a1c381726c37-d_320x180?r=pad",
+                        "id": "67289e90240261923db47404",
                         "sets": 3,
                         "reps": 7,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m5",
-                        "title": "Bench Press Barbell",
-                        "image": "https://i.vimeocdn.com/video/1157687915-011fe875907be53879a36c8accac24bf049f9f12199e23034e46a2bf6010bfab-d_320x180?r=pad",
+                        "id": "67287af5240261923db473ed",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m6",
-                        "title": "Bench Flys Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272533-1e36b33f4537baa1f8d09d7921cd599355123d495db152fd9da86860aee5f376-d_320x180?r=pad",
+                        "id": "67287b5a240261923db473ee",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m7",
-                        "title": "Military Press Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409285-c2dabe302d1c87e7fee6239a7162555ac9ce0aa37635eec87eff1ed06e91aca9-d_320x180?r=pad",
+                        "id": "67289fa5240261923db4740a",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m8",
-                        "title": "Single Arm Supinated Triced Kickbacks",
-                        "image": "https://i.vimeocdn.com/video/838713579-b2e479e37d2bdfd6447b1bdc001cb04f77985fb445bf070965a789369bf7106d-d_320x180?r=pad",
+                        "id": "6728a976240261923db47439",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m9",
-                        "title": "Overhead Extension - Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698566-624b6ef07092ab5207a16f1dd293e1f720f83e0e68091b537d788a413063ee57-d_320x180?r=pad",
+                        "id": "6728a3d7240261923db47421",
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
                         "rest": 120
                     },
                     {
-                        "id": "m10",
-                        "title": "Assisted Pistol Squats Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/847016865-0b5bfc42d655cc3f0fcc23295d3766754ae8ccb5027bab7db6839552f5694c85-d_320x180?r=pad",
+                        "id": "6728a991240261923db4743a",
                         "sets": 3,
                         "reps": 10,
                         "duration": null,
                         "rest": 45
                     },
                     {
-                        "id": "m11",
-                        "title": "Squats - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409665-498c2b2d585e883eba0ddc82f8110f3cfb2a9eb1979c6f63d76c2033b42e2ffd-d_320x180?r=pad",
+                        "id": "67289cc9240261923db473f51",
+
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
-                        "rest": 45
+                        "rest": 45                    
                     },
                     {
-                        "id": "m12",
-                        "title": "Calf Raises - Barbell",
-                        "image": "https://i.vimeocdn.com/video/1160409492-3ccac51cd345a852325194ebf37e5765533d83bf20065050db8d37738313f30e-d_320x180?r=pad",
+                        "id": "67289d56240261923db473fa2",
+
                         "sets": 3,
                         "reps": 12,
                         "duration": null,
-                        "rest": 45
+                        "rest": 45                    
                     },
                     {
-                        "id": "m13",
-                        "title": "Russian Twists Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272319-c617476cb3f7e4dc80e24b5496d64edd5ad1a12190aed2a2e6ed487bdee25143-d_320x180?r=pad",
+                        "id": "6728a249240261923db47418",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 45
                     },
                     {
-                        "id": "m14",
-                        "title": "Reach Ups Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1700272345-203651e132fac0e2903dca81d4993ee331b99d7c0321b826b192c6428329277b-d_320x180?r=pad",
+                        "id": "m6728a2a6240261923db4741b",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
                         "rest": 45
                     },
                     {
-                        "id": "m15",
-                        "title": "Boat Hold Dumbbell",
-                        "image": "https://i.vimeocdn.com/video/1170698900-0fd24497ca6202bb3415542d422576eb5d1ba7b7ac398eafbeff0ab349e0a109-d_320x180?r=pad",
+                        "id": "6728a2c7240261923db4741c5",
                         "sets": 3,
                         "reps": null,
                         "duration": 40,
