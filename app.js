@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 const workoutLogsRoutes = require('./routes/workoutLogs');
-const { Program, Workout} = require('./models/program');
+const { Program, Workout, ExerciseDetail} = require('./models/program');
 
 const app = express();
 
@@ -13,8 +13,8 @@ mongoose.connect(mgUrl)
     .then(() => {
         console.log('Connected to database!');
     })
-    .catch(() => {
-        console.log('Connection failed!');
+    .catch((err) => {
+        console.log('Connection failed!', err);
     });
 
 
@@ -51,6 +51,15 @@ app.get('/api/workouts', (req, res, next) => {
     });
 });
 
+app.get('/api/exercises', (req, res, next) => {
+    ExerciseDetail.find()
+    .then(documents => {
+        res.status(200).json({
+            message: 'Exercises fetched successfully!',
+            exercises: documents
+        });
+    });
+});
 
 
 module.exports = app;
