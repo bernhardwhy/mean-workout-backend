@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 const workoutLogsRoutes = require('./routes/workoutLogs');
-const { Program, Workout, ExerciseDetail} = require('./models/program');
+const { Program, Workout, ExerciseDetail } = require('./models/program');
 
 const app = express();
 
@@ -42,23 +42,39 @@ app.get('/api/programs', (req, res, next) => {
 });
 
 app.get('/api/workouts', (req, res, next) => {
+    console.log("get workouts");
+
     Workout.find()
-    .then(documents => {
-        res.status(200).json({
-            message: 'Workouts fetched successfully!',
-            workouts: documents
+        .then(documents => {
+            res.status(200).json({
+                message: 'Workouts fetched successfully!',
+                workouts: documents
+            });
         });
-    });
+});
+
+app.get('/api/workouts/:id', (req, res, next) => {
+    console.log(req.params.id);
+    Workout.find({
+        id: req.params.id
+    })
+        .then(documents => {
+            console.log("WORKOUT DETIAL FETCHED ", documents[0]);
+            res.status(200).json({
+                message: 'Workout Detail fetched successfully!',
+                workoutDetail: documents[0]
+            });
+        });
 });
 
 app.get('/api/exercises', (req, res, next) => {
     ExerciseDetail.find()
-    .then(documents => {
-        res.status(200).json({
-            message: 'Exercises fetched successfully!',
-            exercises: documents
+        .then(documents => {
+            res.status(200).json({
+                message: 'Exercises fetched successfully!',
+                exercises: documents
+            });
         });
-    });
 });
 
 
