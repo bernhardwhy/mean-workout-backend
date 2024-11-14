@@ -30,20 +30,33 @@ const ProgramSchema = mongoose.Schema({
 });
 
 const ExerciseSchema = mongoose.Schema({
-    id: { type: String, required: true },
-    sets: { type: Number, required: true },
-    reps: { type: Number, required: true },
-    duration: { type: Number, required: true },
-    rest: { type: Number, required: true },
+    title: String,
+    image: String,
 });
 
 const WorkoutSchema = mongoose.Schema({
-    id: { type: String, required: true },
-    title: { type: String, required: true },
-    exercises: [{
-        warmUp: [ExerciseSchema],
-        main: [ExerciseSchema],
-    }],
+    id: String,
+    title: String,
+    exercises: {
+      warmUp: [
+        {
+          id: String,
+          sets: Number,
+          reps: Number,
+          duration: Number,
+          rest: Number,
+        },
+      ],
+      main: [
+        {
+          id: String,
+          sets: Number,
+          reps: Number,
+          duration: Number,
+          rest: Number,
+        },
+      ],
+    },
 });
 
 const ExerciseDetailSchema = mongoose.Schema({
@@ -59,9 +72,10 @@ const ExerciseDetailSchema = mongoose.Schema({
 const Program = mongoose.model('Program', ProgramSchema);
 const WorkoutLog = mongoose.model('WorkoutLog', WorkoutLogSchema);
 const Workout = mongoose.model('Workout', WorkoutSchema);
-const ExerciseDetail = mongoose.model('Exercise', ExerciseDetailSchema);
+const Exercise = mongoose.model('Exercise', ExerciseSchema);
+const ExerciseDetail = mongoose.model('ExerciseDetail', ExerciseDetailSchema);
 
-module.exports = { Program, WorkoutLog, Workout, ExerciseDetail };
+module.exports = { Program, WorkoutLog, Workout, ExerciseDetail, Exercise };
 
 
 
