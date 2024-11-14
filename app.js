@@ -5,8 +5,6 @@ const mongoose = require('mongoose');
 const workoutLogsRoutes = require('./routes/workoutLogs');
 const { Program, Workout, ExerciseDetail, Exercise } = require('./models/program');
 
-const WORKOUTS = require('./data-tests/workouts-update');
-
 const app = express();
 
 const mgUrl = "mongodb+srv://bernhardwhy:" + process.env.MONGO_ATLAS_PW + "@mean-workout.pxedv.mongodb.net/?retryWrites=true&w=majority&appName=mean-workout";
