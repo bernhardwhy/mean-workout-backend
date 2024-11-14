@@ -30,9 +30,6 @@ app.use((req, res, next) => {
     next();
 });
 
-//TEST IN DEV - REMOVE FOR PRODUCTION
-app.use(cors());
-
 app.use('/api/workout-logs', workoutLogsRoutes);
 
 
